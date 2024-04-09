@@ -10,15 +10,15 @@ During the validation phase, competitors are required to submit mask predictions
 
 ── teamname_ValPhase_Try1.zip (Note that: total 3 times for validation from Try1 to Try3)
 
-​    ├── MBAS_001.nii.gz
+​    ├── MBAS_071_label.nii.gz
 
-​    └── MBAS_002.nii.gz
+​    └── MBAS_072_label.nii.gz
 
 ​    ├── ...
 
-​    └── MBAS_030.nii.gz
+​    └── MBAS_100_label.nii.gz
 
-It is of note that your submission should not contain any folders or unrelated files. The file id of prediction masks must be as same as that of the original validation MRI scans (e.g., MBAS_001.nii.gz). 
+It is of note that your submission should not contain any folders or unrelated files. The file id of prediction masks must be as same as that of the original validation MRI scans (e.g., MBAS_071_label.nii.gz). 
 
  
 
