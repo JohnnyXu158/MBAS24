@@ -1,0 +1,5 @@
+h5py
+scipy
+numpy
+collection
+SimpleITK
