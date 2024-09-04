@@ -83,7 +83,9 @@ Contents:
 
 Hi MBAS Committee,
 
-Here is our docker image name: mbas24miccai/example. See the attached file for the completed code.
+Here is our docker image name: mbas24miccai/example
+And the docker link is: https://hub.docker.com/repository/docker/mbas24miccai/example
+See the attached file for the completed code.
 
 Thanks,
 Team ABC
