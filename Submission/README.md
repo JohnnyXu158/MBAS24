@@ -30,7 +30,7 @@ The MBAS2024 challenge will be held as a Type II challenge that will not release
 
 We require a script file that automatically performs inference on the test set, i.e., outputting the predicted segmentation masks on the test set.
 
-For task 1, we require that the input folder be mounted into *input* and the output folder be *output*. In addition, the output files should have the same file name as the input, e.g. the input file input/MBAS_001_gt.nii.gz must have a matched output prediction named output/MBAS_001_label.nii.gz. An example of the inference script can be found [here](./DockerSample/predict_task1.py).
+For task 1, we require that the input folder be mounted into *input* and the output folder be *output*. In addition, the output files should have the same file name as the input, e.g. the input file input/MBAS_001_gt.nii.gz must have a matched output prediction named output/MBAS_001_label.nii.gz. An example of the inference script can be found [here](./DockerSample/predict.py).
 
 Please note that following our [sample](./DockerSample/save_pths), each team must submit two parameter files such as ABC_val.pth and ABC_test.pth, saved under the "save_pths" directory. Additionally, the `predict.py` script should be able to accept several parameters, including the input path, output path, and parameters path.
 
