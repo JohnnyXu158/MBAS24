@@ -80,9 +80,10 @@ For all teams, we will re-evaluate the results of the validation set to ensure t
 Titile: Final Test for MBAS 2024
 
 Contents:
+
 Hi MBAS Committee,
 
-Here is our docker image address: mbas24miccai/example. See the attached file for the completed code.
+Here is our docker image name: mbas24miccai/example. See the attached file for the completed code.
 
 Thanks,
 Team ABC
