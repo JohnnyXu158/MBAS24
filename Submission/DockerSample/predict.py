@@ -31,3 +31,5 @@ if __name__ == '__main__':
                 '''
                 pred_file_name = file.replace('_gt', '_label')
                 sitk.WriteImage(predict, os.path.join(args.output_dir, pred_file_name))
+
+    print('Generate finished!')
