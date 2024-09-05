@@ -91,13 +91,21 @@ See the attached file for the completed code.
 
 
 teamname_code.zip
+
  ├── data_processing.py
+ 
  ├── train.py
+ 
  ├── test.py
+ 
  ├── predict.py
+ 
  ├── networks
+ 
   ├── ABC.Net
+  
  ├── loss.py
+ 
  ├── readme.md    # explain how to process data, train and test.
   
 
