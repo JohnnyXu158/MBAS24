@@ -13,6 +13,10 @@ if __name__ == '__main__':
     parser.add_argument('--model_pth', type=str, default='./save_pths/ABC_test.pth', help='model saved pth')  #
     args = parser.parse_args()
 
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
+        print('Generate new output: ', args.output_dir)
+
     # load your model parameters, here is just an example code.
     # model = ABCNet()
     # model.load_state_dict(torch.load(args.model_pth)['model_state_dict'])
