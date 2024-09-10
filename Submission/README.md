@@ -24,7 +24,7 @@ It is of note that your submission should not contain any folders or unrelated f
 
 ## Instructions for Test Phase Submission
 
-## NOTE THAT: Please see [Tutorial-PDF](./DockerSample/MBAS24-HowToSubmit.pdf) for more latest information!
+## NOTE THAT: Please see [Tutorial-PDF](https://github.com/JohnnyXu158/MBAS24/blob/main/Submission/MBAS24-HowToSubmit.pdf) for more latest information!
 
 
 
