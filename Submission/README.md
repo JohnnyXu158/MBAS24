@@ -24,14 +24,11 @@ It is of note that your submission should not contain any folders or unrelated f
 
 ## Instructions for Test Phase Submission
 
-## NOTE THAT: Please see [Tutorial-PDF](https://github.com/JohnnyXu158/MBAS24/blob/main/Submission/MBAS24-HowToSubmit.pdf) for more latest information!
-
-
-
-
-
 The MBAS2024 challenge will be held as a Type II challenge that will not release the test set to its competitors. For the test phase submission, we will require the competitors to submit their containerized docker images. 
 
+## NOTE THAT: Please see [Tutorial-PDF](https://github.com/JohnnyXu158/MBAS24/blob/main/Submission/MBAS24-HowToSubmit.pdf) for more latest information!
+
+<!--
 ### Step 1. Organize an inference script
 
 We require a script file that automatically performs inference on the test set, i.e., outputting the predicted segmentation masks on the test set.
@@ -118,7 +115,7 @@ teamname_code.zip
 Thanks,
 
 Team ABC
-
+-->
 
 ## References
 
