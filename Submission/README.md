@@ -24,6 +24,12 @@ It is of note that your submission should not contain any folders or unrelated f
 
 ## Instructions for Test Phase Submission
 
+## NOTE THAT: Please see [Tutorial-PDF](./DockerSample/MBAS24-HowToSubmit.pdf) for more latest information!
+
+
+
+
+
 The MBAS2024 challenge will be held as a Type II challenge that will not release the test set to its competitors. For the test phase submission, we will require the competitors to submit their containerized docker images. 
 
 ### Step 1. Organize an inference script
