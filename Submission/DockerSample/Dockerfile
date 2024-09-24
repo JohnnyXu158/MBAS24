@@ -1,6 +1,8 @@
 ## Pull from existing image
 FROM pytorch/pytorch:1.8.0-cuda11.1-cudnn8-runtime
 
+# New Work dir for MBAS
+WORKDIR /hpc/fxu244/mbas24
 
 ## Copy requirements
 COPY ./requirements.txt .
