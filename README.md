@@ -23,7 +23,7 @@ The MBAS 2024 challenge focuses on the automatic semantic segmentation of bi-atr
 
 ## Contents of this Repository
 
-* **Training & Testing Data**: Training data consist of 70 raw labels mapped to five semantic classes: 0—background (BAK), 1—right atrium (RA), 2—left atrium (LA), 3—right atrial wall (RAW), and 4—left atrial wall (LAW). Test data consist of 30 raw labels mapped to five semantic classes: 0—background (BAK), 1—right atrium (RA), 2—left atrium (LA), 3—right atrial wall (RAW), and 4—left atrial wall (LAW).
+* **Training & Testing Data**: Training data and testing data consist of 70+30 raw labels mapped to five semantic classes: 0—background (BAK), 1—right atrial wall (RAW), 2—left atrial wall (LAW), 3—right atrial cavity (RA), and 4—left atrial cavity (LA). 
 * **Framework Source Code**: Complete deep learning pipelines detailing our data preprocessing, model training, cross-validation, and inference procedures. *(Coming soon on GitHub)*
 
 ## Links & References
