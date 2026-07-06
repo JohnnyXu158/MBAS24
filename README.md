@@ -30,7 +30,7 @@ The MBAS 2024 challenge focuses on the automatic semantic segmentation of bi-atr
 
 * **Official MBAS 2024 Challenge Page**: [MBAS24](https://codalab.lisn.upsaclay.fr/competitions/18516) 
 * **Download Link**: [MBAS24 Dataset](https://zenodo.org/records/19120533)
-* **Associated Paper/Report**: **TBD** *(Will be updated soon. Please refer to the Mandatory Citation Policy above).*
+* **Associated Paper (Please refer to the Mandatory Citation Policy above)**: Xu, F., Kennelly, J., Zolotarev, A. M., Roney, C., Nohel, M., Ulrich, C., Anenberg, B., Chang, P., On, Y. H., Varela, M., et al. (2026). MBAS2024: A large-scale benchmark for multi-class bi-atrial segmentation in multi-center contrast-enhanced MRIs. Medical Image Analysis, 104203. https://doi.org/10.1016/j.media.2026.104203 
 
 ## Acknowledgments
 
